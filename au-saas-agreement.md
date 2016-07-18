@@ -84,9 +84,13 @@ https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
 
 https://github.com/CodePact/au-components/blob/widgets/payment_method.md
 
-## Limits on Suing
+## Claim limits
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
+
+## Covering costs
+
+https://github.com/CodePact/au-components/blob/widgets/indemnity.md
 
 ## Cancellation for breach
 
